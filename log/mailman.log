@@ -1,0 +1,5 @@
+# Logfile created on 2013-11-09 21:48:37 +0530 by logger.rb/36483
+I, [2013-11-09T21:48:37.643649 #16799]  INFO -- : Mailman v0.7.0 started
+I, [2013-11-09T21:48:37.643787 #16799]  INFO -- : Rails root found in ., requiring environment...
+I, [2013-11-09T21:48:40.350574 #16799]  INFO -- : POP3 receiver enabled (karuppanna.irtt@gmail.com@pop.gmail.com).
+I, [2013-11-09T21:48:40.380990 #16799]  INFO -- : Polling enabled. Checking every 3 seconds.
