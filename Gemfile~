@@ -49,5 +49,3 @@ gem 'mailman' , require: false
 
 
 gem 'best_in_place', github: 'bernat/best_in_place' 
-
-gem 'will_paginate'
